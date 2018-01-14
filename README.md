@@ -2,6 +2,9 @@
 
 Die Geschichte des Kabelrollenhalter musste mal wieder neu geschrieben werden. Ein Projekt für den Lasercutter und den 3D-Drucker. Passend für Kabelrollen mit 75 mm Breite und 65 mm Durchmesser.
 
+Die Breite des Halters ist 318 mm, Tiefe 83 mm und die Höhe 107 mm.
+
+
 <img src="IMG/KRH_3.jpg" width = "48%" /> <img src="IMG/KRH_2.jpg" width = "48%" /> 
 
 
