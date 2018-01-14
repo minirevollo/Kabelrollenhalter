@@ -1,6 +1,6 @@
 # Kabelrollenhalter
 
-Die Geschichte des Kabelrollenhalter musste mal wieder neu geschrieben werden. Ein Projekt für den Lasercutter und den 3D-Drucker. 
+Die Geschichte des Kabelrollenhalter musste mal wieder neu geschrieben werden. Ein Projekt für den Lasercutter und den 3D-Drucker. Passend für Kabelrollen mit 75 mm Breite und 65 mm Durchmesser.
 
 <img src="IMG/KRH_3.jpg" width = "48%" /> <img src="IMG/KRH_2.jpg" width = "48%" /> 
 
